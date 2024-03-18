@@ -11,7 +11,7 @@ MERCHANT_SECRET = "c14befbb5976d969a91db06439d7e0f964f1a92c0d5417f5cc0a64a9988bf
 BASE_SANDBOX_URL = "https://sandbox-gateway.thesmilepay.com"
 
 # PRODUCTION URL. From docs API. If you pass the sandbox docking, you can switch the URL to production.
-BASE_URL = "https://sandbox-gateway.thesmilepay.com";
+BASE_URL = "https://gateway.thesmilepay.com";
 
 # from docs API
 ACCESS_TOKEN_API = "/v1.0/access-token/b2b"
